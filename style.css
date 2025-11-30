@@ -1,0 +1,11 @@
+img {
+    width: 400px;
+}
+body {
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant:small-caps;
+    font-weight: 200;
+    color: blue
+}
